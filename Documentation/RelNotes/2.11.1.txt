@@ -4,6 +4,8 @@ Magit v2.11.1 Release Notes (unreleased)
 Changes since v2.11.0
 ---------------------
 
+* TODO Added command `magit-branch-pull-request'.
+
 * Added command `magit-browse-pull-request'.
 
 Fixes since v2.11.0
